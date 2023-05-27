@@ -14,7 +14,3 @@ def fibonacci(n):
         return fib_sequence
 
 
-# Example usage
-num_terms = int(input("Enter the number of Fibonacci terms you want to generate: "))
-fibonacci_sequence = fibonacci(num_terms)
-print(fibonacci_sequence)
